@@ -30,11 +30,11 @@ This task requirements are as follows:
 - Each external libraries are loaded via [composer][9]
 - The database layer used is [Doctrine][6] via the [laravel-doctrine/orm][7] package
 - The interaction with [MailChimp API][3] is made using [pacely/mailchimp-apiv3][8]
+- [Register on MailChimp][10], create your API key to use in your application
 
 ## Get Started
 To complete this task you can either:
 
-- [Register on MailChimp][10], create your API key to use in your application
 - Fork this repository, update the code base and send the URL of your repository to the reviewer(s)
 - Clone this repository into your local environment, update the code base and send a zip of the repository to the reviewer(s)
 
